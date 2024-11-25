@@ -1,0 +1,21 @@
+/* [project]/styles/hin115_font_6a96d1c0.module.css [app-client] (css) */
+@font-face {
+  font-family: hin115_font;
+  src: url("../media/hin115-s.p.76fef294.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: hin115_font Fallback;
+  src: local(Arial);
+  ascent-override: 80.05%;
+  descent-override: 36.45%;
+  line-gap-override: 0.0%;
+  size-adjust: 111.93%;
+}
+
+.hin115_font_6a96d1c0-module__mSZJUG__className {
+  font-family: hin115_font, hin115_font Fallback;
+}
+
+/*# sourceMappingURL=styles_hin115_font_6a96d1c0_module_b52d8e.css.map*/
