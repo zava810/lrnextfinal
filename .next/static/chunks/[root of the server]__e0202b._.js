@@ -215,7 +215,7 @@ function LoginForm() {
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$0$2e$0_react$2d$dom$40$19$2e$0$2e$0$2d$rc$2d$cd22717c$2d$20241013_react$40$19$2e$0$2e$0$2d$rc$2d$cd22717c$2d$20241013_$5f$react$40$19$2e$0$2e$0$2d$rc$2d$cd22717c$2d$20241013$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                     className: `${__TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$hin115_font_6a96d1c0$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__hin115_font$3e$__["hin115_font"].className} mb-3 text-2xl`,
-                    children: "Please log in to continue."
+                    children: "please continue krne ke lie login kre."
                 }, void 0, false, {
                     fileName: "[project]/app/ui/login-form.tsx",
                     lineNumber: 23,
