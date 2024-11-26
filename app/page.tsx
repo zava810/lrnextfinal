@@ -15,11 +15,11 @@ export default function Page() {
           <p
             className={`${hin115_font.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
-            <strong>Welcome to Acme.</strong> This is the example for the{' '}
+            <strong>zava8 me aapka welcome Hei.</strong> ye {' '}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js Learn Course
+              next.js learn course
             </a>
-            , brought to you by Vercel.
+            , brought to you by vercel.
           </p>
           <Link
             href="/login"

@@ -203,7 +203,7 @@ async function deleteInvoice(id) {
         };
     } catch (error) {
         return {
-            message: 'Database Error: Failed to Delete Invoice.'
+            message: 'database error: failed to delete invoice.'
         };
     }
 }
@@ -214,9 +214,9 @@ async function authenticate(prevState, formData) {
         if (error instanceof __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f40$auth$2b$core$40$0$2e$37$2e$2$2f$node_modules$2f40$auth$2f$core$2f$errors$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["AuthError"]) {
             switch(error.type){
                 case 'CredentialsSignin':
-                    return 'Invalid credentials.';
+                    return 'credentials invalid Hei.';
                 default:
-                    return 'Something went wrong.';
+                    return 'kuch wrong Ho gya.';
             }
         }
         throw error;

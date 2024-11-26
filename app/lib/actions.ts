@@ -115,7 +115,7 @@ export async function deleteInvoice(id: string) {
     revalidatePath('/dashboard/invoices');
     return { message: 'Deleted Invoice' };
   } catch (error) {
-    return { message: 'Database Error: Failed to Delete Invoice.' };
+    return { message: 'database error: failed to delete invoice.' };
   }
 }
 
@@ -129,9 +129,9 @@ export async function authenticate(
     if (error instanceof AuthError) {
       switch (error.type) {
         case 'CredentialsSignin':
-          return 'Invalid credentials.';
+          return 'credentials invalid Hei.';
         default:
-          return 'Something went wrong.';
+          return 'kuch wrong Ho gya.';
       }
     }
     throw error;

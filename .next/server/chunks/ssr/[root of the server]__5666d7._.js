@@ -169,8 +169,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$hin115_font_6a96d1
 ;
 const metadata = {
     title: {
-        template: '%s | Acme Dashboard',
-        default: 'Acme Dashboard'
+        template: '%s | ᴀcme dᴀshboᴀrd',
+        default: 'ᴀcme dᴀshboᴀrd'
     },
     description: 'The official Next.js Learn Dashboard built with App Router.',
     metadataBase: new URL('https://next-learn-dashboard.vercel.sh')
