@@ -243,7 +243,7 @@ function LoginForm() {
                                             id: "email",
                                             type: "email",
                                             name: "email",
-                                            placeholder: "Enter your email address",
+                                            placeholder: "enter your email address",
                                             required: true
                                         }, void 0, false, {
                                             fileName: "[project]/app/ui/login-form.tsx",
@@ -275,7 +275,7 @@ function LoginForm() {
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$0$2e$0_react$2d$dom$40$19$2e$0$2e$0$2d$rc$2d$cd22717c$2d$20241013_react$40$19$2e$0$2e$0$2d$rc$2d$cd22717c$2d$20241013_$5f$react$40$19$2e$0$2e$0$2d$rc$2d$cd22717c$2d$20241013$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
                                     className: "mb-3 mt-5 block text-xs font-medium text-gray-900",
                                     htmlFor: "password",
-                                    children: "Password"
+                                    children: "password"
                                 }, void 0, false, {
                                     fileName: "[project]/app/ui/login-form.tsx",
                                     lineNumber: 47,
