@@ -1,11 +1,13 @@
-import localFont from 'next/font/local'; 
-import { Inter, Lusitana } from 'next/font/google';
-export const inter = Inter({ subsets: ['latin'] }); 
-export const lusitana = Lusitana({
-  weight: ['400', '700'],
-  subsets: ['latin'],
-});
+import localFont from 'next/font/local';
 export const hin115_font = localFont({
     src: './hin115.woff2',
     display: 'swap',
+});
+export const ing115_font = localFont({
+  src: './ing115.woff2',
+  display: 'swap',
+});
+export const bangla115_font = localFont({
+  src: './bangla115.woff2',
+  display: 'swap',
 });

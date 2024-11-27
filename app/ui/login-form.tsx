@@ -1,7 +1,7 @@
 'use client';
 
 import { authenticate } from '@/app/lib/actions';
-import { hin115_font } from '@/fonts';
+// import { hin115_font } from '@/fonts';
 import {
   AtSymbolIcon,
   KeyIcon,
@@ -20,7 +20,7 @@ export default function LoginForm() {
   return (
     <form action={formAction} className="space-y-3">
       <div className="flex-1 rounded-lg bg-gray-50 px-6 pb-4 pt-8">
-        <h1 className={`${hin115_font.className} mb-3 text-2xl`}>
+        <h1 className="mb-3 text-2xl">
           please continue krne ke lie login kre.
         </h1>
         <div className="w-full">

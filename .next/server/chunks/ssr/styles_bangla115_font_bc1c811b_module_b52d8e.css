@@ -1,0 +1,21 @@
+/* [project]/styles/bangla115_font_bc1c811b.module.css [app-client] (css) */
+@font-face {
+  font-family: bangla115_font;
+  src: url("/_next/static/media/bangla115-s.p.2e783cc1.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: bangla115_font Fallback;
+  src: local(Arial);
+  ascent-override: 77.66%;
+  descent-override: 34.56%;
+  line-gap-override: 0.0%;
+  size-adjust: 118.07%;
+}
+
+.bangla115_font_bc1c811b-module__o0-l3G__className {
+  font-family: bangla115_font, bangla115_font Fallback;
+}
+
+/*# sourceMappingURL=styles_bangla115_font_bc1c811b_module_b52d8e.css.map*/

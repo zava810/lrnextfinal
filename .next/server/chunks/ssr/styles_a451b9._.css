@@ -1,0 +1,85 @@
+/* [project]/styles/hin115_font_6a96d1c0.module.css [app-client] (css) */
+@font-face {
+  font-family: hin115_font;
+  src: url("/_next/static/media/hin115-s.p.76fef294.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: hin115_font Fallback;
+  src: local(Arial);
+  ascent-override: 80.05%;
+  descent-override: 36.45%;
+  line-gap-override: 0.0%;
+  size-adjust: 111.93%;
+}
+
+.hin115_font_6a96d1c0-module__mSZJUG__className {
+  font-family: hin115_font, hin115_font Fallback;
+}
+
+
+/* [project]/styles/hin115_font_6a96d1c0.module.css [app-client] (css) */
+@font-face {
+  font-family: hin115_font;
+  src: url("/_next/static/media/hin115-s.p.76fef294.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: hin115_font Fallback;
+  src: local(Arial);
+  ascent-override: 80.05%;
+  descent-override: 36.45%;
+  line-gap-override: 0.0%;
+  size-adjust: 111.93%;
+}
+
+.hin115_font_6a96d1c0-module__mSZJUG__className {
+  font-family: hin115_font, hin115_font Fallback;
+}
+
+
+/* [project]/styles/ing115_font_892ad6ef.module.css [app-client] (css) */
+@font-face {
+  font-family: ing115_font;
+  src: url("/_next/static/media/ing115-s.p.6978798e.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: ing115_font Fallback;
+  src: local(Arial);
+  ascent-override: 99.16%;
+  descent-override: 27.18%;
+  line-gap-override: 0.0%;
+  size-adjust: 107.8%;
+}
+
+.ing115_font_892ad6ef-module__hMlG3q__className {
+  font-family: ing115_font, ing115_font Fallback;
+}
+
+
+/* [project]/styles/ing115_font_892ad6ef.module.css [app-client] (css) */
+@font-face {
+  font-family: ing115_font;
+  src: url("/_next/static/media/ing115-s.p.6978798e.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: ing115_font Fallback;
+  src: local(Arial);
+  ascent-override: 99.16%;
+  descent-override: 27.18%;
+  line-gap-override: 0.0%;
+  size-adjust: 107.8%;
+}
+
+.ing115_font_892ad6ef-module__hMlG3q__className {
+  font-family: ing115_font, ing115_font Fallback;
+}
+
+
+/*# sourceMappingURL=styles_a451b9._.css.map*/

@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { hin115_font } from '@/fonts';
+// import { hin115_font } from '@/fonts';
 import Search from '@/app/ui/search';
 import { FormattedCustomersTable } from '@/app/lib/definitions';
 
@@ -10,7 +10,7 @@ export default async function CustomersTable({
 }) {
   return (
     <div className="w-full">
-      <h1 className={`${hin115_font.className} mb-8 text-xl md:text-2xl`}>
+      <h1 className="mb-8 text-xl md:text-2xl">
         Customers
       </h1>
       <Search placeholder="Search customers..." />

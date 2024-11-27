@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/styles/bangla115_font_bc1c811b.module.css"],"sourcesContent":["@font-face {\n    font-family: 'bangla115_font';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22./bangla115.woff2%22,%22preload%22:true,%22has_size_adjust%22:true}') format('woff2');\n    font-display: swap;\n    \n}\n\n@font-face {\n    font-family: 'bangla115_font Fallback';\n    src: local(\"Arial\");\n    ascent-override: 77.66%;\ndescent-override: 34.56%;\nline-gap-override: 0.00%;\nsize-adjust: 118.07%;\n\n}\n\n.className {\n    font-family: 'bangla115_font', 'bangla115_font Fallback';\n    \n}\n\n"],"names":[],"mappings":"AAAA;;;;;;AAOA;;;;;;;;;AAUA"}},
+    {"offset": {"line": 19, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

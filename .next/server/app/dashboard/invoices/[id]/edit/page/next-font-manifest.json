@@ -1,0 +1,11 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/app/dashboard/invoices/[id]/edit/page": [
+      "static/media/hin115-s.p.76fef294.woff2",
+      "static/media/ing115-s.p.6978798e.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}

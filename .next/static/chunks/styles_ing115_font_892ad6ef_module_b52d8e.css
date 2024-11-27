@@ -1,0 +1,21 @@
+/* [project]/styles/ing115_font_892ad6ef.module.css [app-client] (css) */
+@font-face {
+  font-family: ing115_font;
+  src: url("../media/ing115-s.p.6978798e.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: ing115_font Fallback;
+  src: local(Arial);
+  ascent-override: 99.16%;
+  descent-override: 27.18%;
+  line-gap-override: 0.0%;
+  size-adjust: 107.8%;
+}
+
+.ing115_font_892ad6ef-module__hMlG3q__className {
+  font-family: ing115_font, ing115_font Fallback;
+}
+
+/*# sourceMappingURL=styles_ing115_font_892ad6ef_module_b52d8e.css.map*/
