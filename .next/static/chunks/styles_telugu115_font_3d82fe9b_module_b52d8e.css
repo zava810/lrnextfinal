@@ -1,0 +1,21 @@
+/* [project]/styles/telugu115_font_3d82fe9b.module.css [app-client] (css) */
+@font-face {
+  font-family: telugu115_font;
+  src: url("../media/telugu115-s.p.e520fc85.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: telugu115_font Fallback;
+  src: local(Arial);
+  ascent-override: 68.02%;
+  descent-override: 37.8%;
+  line-gap-override: 0.0%;
+  size-adjust: 127.77%;
+}
+
+.telugu115_font_3d82fe9b-module__R2qDOq__className {
+  font-family: telugu115_font, telugu115_font Fallback;
+}
+
+/*# sourceMappingURL=styles_telugu115_font_3d82fe9b_module_b52d8e.css.map*/

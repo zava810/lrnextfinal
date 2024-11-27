@@ -11,3 +11,7 @@ export const bangla115_font = localFont({
   src: './bangla115.woff2',
   display: 'swap',
 });
+export const telugu115_font = localFont({
+  src: './telugu115.woff2',
+  display: 'swap',
+});

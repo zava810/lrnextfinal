@@ -1,19 +1,16 @@
 {
   "app": {
-    "[project]/app/dashboard/(overview)/page": [
-      "static/media/hin115-s.p.76fef294.woff2",
-      "static/media/ing115-s.p.6978798e.woff2",
-      "static/media/bangla115-s.p.2e783cc1.woff2"
-    ],
-    "[project]/app/dashboard/invoices/page": [
-      "static/media/hin115-s.p.76fef294.woff2",
-      "static/media/ing115-s.p.6978798e.woff2",
-      "static/media/bangla115-s.p.2e783cc1.woff2"
-    ],
     "[project]/app/dashboard/customers/page": [
       "static/media/hin115-s.p.76fef294.woff2",
       "static/media/ing115-s.p.6978798e.woff2",
-      "static/media/bangla115-s.p.2e783cc1.woff2"
+      "static/media/bangla115-s.p.2e783cc1.woff2",
+      "static/media/telugu115-s.p.e520fc85.woff2"
+    ],
+    "[project]/app/dashboard/(overview)/page": [
+      "static/media/hin115-s.p.76fef294.woff2",
+      "static/media/ing115-s.p.6978798e.woff2",
+      "static/media/bangla115-s.p.2e783cc1.woff2",
+      "static/media/telugu115-s.p.e520fc85.woff2"
     ]
   },
   "appUsingSizeAdjust": true,
