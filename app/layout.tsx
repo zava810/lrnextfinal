@@ -1,7 +1,7 @@
 "use client";
 import '@/app/ui/global.css';
 import React, { useState } from 'react';
-import { hin115_font, ing115_font, bangla115_font, telugu115_font } from '@/fonts';
+import { hin115_font, ing115_font, bangla115_font, telugu115_font, mlyalm115_font, tmil115_font } from '@/fonts';
 // import { Metadata } from 'next';
 
 // export const metadata: Metadata = {
@@ -22,6 +22,8 @@ export default function RootLayout({ children, }: { children: React.ReactNode; }
       case '1': return hin115_font ;
       case '2': return bangla115_font ;
       case '3': return telugu115_font ;
+      case '4': return mlyalm115_font ;
+      case '5': return tmil115_font ;
       default: return ing115_font ;
     }
   }
@@ -30,10 +32,12 @@ export default function RootLayout({ children, }: { children: React.ReactNode; }
         <body className={`${selectedFont.className} antialiased`}>
         <div>
           <select onChange={(e) => handleFontChange(getFontClass(e.target.value))}>
-            <option value="0">ing115 font</option>
-            <option value="1">hin115 font</option>
-            <option value="2">bangla115 font</option>
-            <option value="3">telugu115 font</option>
+            <option value="0">iNg115 font</option>
+            <option value="1">Hin115 font</option>
+            <option value="2">baNgla115 font</option>
+            <option value="3">Telugu115 font</option>
+            <option value="4">TAmil115 font</option>
+            <option value="5">mAlAyalAm115 font</option>
           </select>
         </div>
           {children}

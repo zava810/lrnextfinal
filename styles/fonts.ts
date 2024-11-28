@@ -15,3 +15,11 @@ export const telugu115_font = localFont({
   src: './telugu115.woff2',
   display: 'swap',
 });
+export const mlyalm115_font = localFont({
+  src: './mlyalm115.woff2',
+  display: 'swap',
+});
+export const tmil115_font = localFont({
+  src: './tmil115.woff2',
+  display: 'swap',
+});
