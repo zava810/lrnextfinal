@@ -13,5 +13,5 @@ export const pnzabi115_font = localFont({ src: './pnzabi115.woff2', display: 'sw
 export const odia115_font = localFont({ src: './odia115.woff2', display: 'swap', });
 export const sinhala115_font = localFont({ src: './sinhala115.woff2', display: 'swap', });
 export const hex115_font = localFont({ src: './hex115.woff2', display: 'swap', });
-export const binaryhoriontal115_font = localFont({ src: './binaryhoriontal115.woff2', display: 'swap', });
+export const binaryvertical115_font = localFont({ src: './binaryvertical115.woff2', display: 'swap', });
 export const binaryhoriontal115_font = localFont({ src: './binaryhoriontal115.woff2', display: 'swap', });
