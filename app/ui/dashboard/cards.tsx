@@ -4,7 +4,7 @@ import {
   UserGroupIcon,
   InboxIcon,
 } from '@heroicons/react/24/outline';
-import { hin115_font } from '@/fonts';
+// import { hin115_font } from '@/fonts';
 import { fetchCardData } from '@/app/lib/data';
 
 const iconMap = {
@@ -53,10 +53,8 @@ export function Card({
         {Icon ? <Icon className="h-5 w-5 text-gray-700" /> : null}
         <h3 className="ml-2 text-sm font-medium">{title}</h3>
       </div>
-      <p
-        className={`${hin115_font.className}
-          truncate rounded-xl bg-white px-4 py-8 text-center text-2xl`}
-      >
+      {/* <p className={`${hin115_font.className} truncate rounded-xl bg-white px-4 py-8 text-center text-2xl`} > */}
+      <p className="truncate rounded-xl bg-white px-4 py-8 text-center text-2xl" >
         {value}
       </p>
     </div>
