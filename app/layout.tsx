@@ -59,7 +59,7 @@ export default function RootLayout({ children, }: { children: React.ReactNode; }
             <option value="8">sinhala115_font</option>
             <option value="9">pnzabi115_font</option>
             <option value="L">guzrati115_font</option>
-            <option value="L">binaryvertical115_font</option>
+            <option value="J">binaryvertical115_font</option>
           </select>
         </div>
           {children}
