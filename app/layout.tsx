@@ -19,11 +19,11 @@ import {
 // };
 export default function RootLayout({ children, }: { children: React.ReactNode; }) {
   // https://stackoverflow.com/questions/72946973/how-to-access-a-state-of-an-component-from-another-component-in-next-js
-  const [selectedFontcn, setSelectedFontcn] = useState(ing115_font.className);
+  const [f, setf] = useState(ing115_font.className);
 
-  const handleFontChange = (selectedval: string) => {
-    const getFontcn = (selectval:string) => {
-      switch (selectval) {
+  const handlevaluechange = (selectedval: string) => {
+    const getFontcn = (sval:string) => {
+      switch (sval) {
         case '0': return ing115_font.className ;
         case '1': return hin115_font.className ;
         case '2': return bangla115_font.className ;
@@ -39,15 +39,15 @@ export default function RootLayout({ children, }: { children: React.ReactNode; }
         default: return ing115_font.className ;
       }
     }
-    const selectvaluefontcn = getFontcn(selectedval);
-    setSelectedFontcn(selectvaluefontcn);
+    const selectedf = getFontcn(selectedval);
+    setf(selectedf);
   };
 
   return (
     <html lang="en">
-        <body className={`${selectedFontcn} antialiased`}>
+        <body className={`${f} antialiased`}>
           <div>
-            <select onChange={(e) => handleFontChange(e.target.value)}>
+            <select onChange={(e) => handlevaluechange(e.target.value)}>
             <option value="0">iNg115_font</option>
             <option value="1">hin115_font</option>
             <option value="2">bangla115_font</option>
